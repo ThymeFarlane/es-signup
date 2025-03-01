@@ -1,0 +1,2 @@
+es_script = classic type script
+es_alt = eagle E logo
